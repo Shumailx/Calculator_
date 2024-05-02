@@ -1,0 +1,1 @@
+cout<< "multiply two numbers"<<a*b<<endl;

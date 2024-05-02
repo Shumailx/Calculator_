@@ -1,0 +1,1 @@
+cout<< "division of two numbers"<<a/b<<endl;
